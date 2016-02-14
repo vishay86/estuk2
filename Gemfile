@@ -50,4 +50,5 @@ gem 'devise'
 gem 'simple_form'
 gem "paperclip", "~> 4.3"
 gem "cancan"
+gem 'dotenv-rails', group: :development 
 
