@@ -52,4 +52,4 @@ gem "paperclip", "~> 4.3"
 gem "cancan"
 gem 'dotenv-rails', group: :development 
 gem 'friendly_id'
-
+gem 'stripe'
